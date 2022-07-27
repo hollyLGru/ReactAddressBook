@@ -1,0 +1,21 @@
+div {
+    display: inline-block;
+    margin: auto;
+    text-align: center;
+}
+h2 {
+    font-size: 120%;
+}
+
+li {
+    list-style: none;
+    border: 2pt dashed black;
+    width: 180pt;
+    margin: 10%;
+    padding: 5%;
+    background-color: rgb(198, 197, 197);
+}
+
+p {
+    font-style: italic;
+}
